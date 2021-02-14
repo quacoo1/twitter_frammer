@@ -1,0 +1,25 @@
+{
+  "name": "twitter_frammer",
+  "version": "1.0.0",
+  "description": "bot for creating framed/modified images of tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quacoo1/twitter_frammer.git"
+  },
+  "keywords": [
+    "bot",
+    "svg",
+    "png",
+    "twitter"
+  ],
+  "author": "mystic lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quacoo1/twitter_frammer/issues"
+  },
+  "homepage": "https://github.com/quacoo1/twitter_frammer#readme"
+}
